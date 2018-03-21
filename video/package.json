@@ -1,0 +1,19 @@
+{
+  "name": "es6-video",
+  "version": "0.5.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjwwill/es6-video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjwwill/es6-video/issues"
+  },
+  "homepage": "https://github.com/gjwwill/es6-video#readme"
+}
